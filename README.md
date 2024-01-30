@@ -6,6 +6,7 @@ Repositório criado para os projetos de HTML propostos na formação DIO.
 - [Certificado]
 - [Comunicação Client x Server](https://www.dio.me/certificate/4F525F88/share)
 - [Introdução ao HTML na prática](https://www.dio.me/certificate/A09D80D6/share)
+- [Formulários em HTML](https://www.dio.me/certificate/NELDUTM9/share)
 
 ![Logo](https://hermes.dio.me/tracks/62ed1f1d-8d76-4bbc-905f-e73d20cb82f5.png)
 
